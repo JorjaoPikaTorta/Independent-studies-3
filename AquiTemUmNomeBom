@@ -1,1 +1,3 @@
-
+echo "Adicionando mais informações sobre o projeto." >> AquiTemUmNomeBom
+git add AquiTemUmNomeBom
+git commit -m "Projetin criado pro cursin da uni~~"
